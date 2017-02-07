@@ -1,2 +1,3 @@
-# proses
-some texts on understanding of my life
+# 杂记
+
+一些杂记，随笔而写，随性而写。
